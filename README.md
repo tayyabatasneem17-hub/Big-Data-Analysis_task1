@@ -1,12 +1,19 @@
 # Big-Data-Analysis_task1
 
 COMPANY: CODETECH IT SOLUTIONS
+
 NAME: TAYYABA TASNEEM
+
 INTERN ID: CT04DY1443
+
 DOMAIN: DATA ANALYSIS
+
 DURATION: 4 WEEKS
+
 MENTOR: [NEELA SANTOSH KUMAR]
+
 Task Description
+
 As part of the CODTECH Data Analysis Internship – Task 1, I performed Big Data Analysis using PySpark. The objective was to simulate a large-scale taxi rides dataset, perform data cleaning, exploratory data analysis (EDA), and generate visualizations to identify trends and patterns in ride data.
 The dataset consists of:
 tpep_pickup_datetime → Date and time of taxi pickup
